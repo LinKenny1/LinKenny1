@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **linkenny13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11JUuZN2LocBMHpc29oV_neiLRNot4ySF/view?usp=sharing](https://drive.google.com/file/d/11JUuZN2LocBMHpc29oV_neiLRNot4ySF/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jdZLm-V_N1dVEJ3tzYajF1v0iAHmzwge/view?usp=sharing](https://drive.google.com/file/d/11JUuZN2LocBMHpc29oV_neiLRNot4ySF/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
