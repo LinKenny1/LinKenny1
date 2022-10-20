@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kenny Jaimes</h1>
-<h3 align="center">A passionate Electronic Engineer and Data scientist from Venezuela</h3>
+<h3 align="center">A passionate Electronic Engineer and ML Engineer from Venezuela</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linkenny1&label=Profile%20views&color=0e75b6&style=flat" alt="linkenny1" /> </p>
 
